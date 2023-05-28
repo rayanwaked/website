@@ -24,7 +24,7 @@ function App() {
       <div className="body">
         <h2>Welcome</h2>
         <p>
-          Hello! I'm Rayan, an iOS and UX Engineer. I develop and designs
+          Hello! I'm Rayan, an iOS and UX Engineer. I develop and design
           applications for iOS, iPadOS, watchOS, and macOS. My main tech stack
           consists of Swift and SwiftUI. However, I'm also well aquainted with
           HTML, CSS, Typescript, React, and Ionic.
