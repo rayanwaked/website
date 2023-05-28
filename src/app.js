@@ -11,7 +11,7 @@ function App() {
 
       <div className="navigation">
         <h3>
-          <a href="https://wwww.waked.dev">about</a>
+          <a href="https://linkedin.com/in/rayanwaked">linkedin</a>
         </h3>
         <h3>
           <a href="https://github.com/rayanwaked">github</a>
