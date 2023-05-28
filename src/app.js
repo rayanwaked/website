@@ -36,10 +36,7 @@ function App() {
           OpenAI's language learning models. Enables Siri to answer complex
           questions and requests.
         </p>
-        <p>
-          Fog — a tool for creating macOS apps with Swift packages instead of
-          Xcode projects.
-        </p>
+        <p>Fog — a secret project in the works! Keep an eye out for updates.</p>
       </div>
     </div>
   );
