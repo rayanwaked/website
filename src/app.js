@@ -29,10 +29,6 @@ function App() {
           consists of Swift and SwiftUI. However, I'm also well aquainted with
           HTML, CSS, Typescript, React, and Ionic.
         </p>
-        <p>
-          To learn more about my open-source projects and contributions, check
-          out my page about my open-source presence, and my GitHub profile.
-        </p>
 
         <h2>Projects</h2>
         <p>
